@@ -1,7 +1,7 @@
 
 spring:
   application:
-    name: product-service
+    name: mic-product-service
 eureka:
   instance:
    prefer-ip-address: true
